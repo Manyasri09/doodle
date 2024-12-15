@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/initial.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 1.unity
     guid: e5ff7985426596e4d979832ca609d956
   - enabled: 0
@@ -17,13 +17,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/n.unity
     guid: 3f8e0a3cba8512946920acfa716252ef
-  - enabled: 0
-    path: Assets/Scenes/Scene 4.unity
-    guid: cd077dc782d6ca447abbd9024afeb304
   - enabled: 1
+    path: Assets/Scenes/Boulder push.unity
+    guid: cd077dc782d6ca447abbd9024afeb304
+  - enabled: 0
     path: Assets/Scenes/Scene 2.unity
     guid: cf6a20980a506ef479b335c828067591
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 3.unity
     guid: 5c96e40715c61cc4c910ae11467d2111
+  - enabled: 0
+    path: Assets/Scenes/Scene 5.unity
+    guid: 906631f627ac59648a61e45dcaa9e4a1
+  - enabled: 0
+    path: Assets/Scenes/Boulder reverse.unity
+    guid: 316895746369a104db5fb2f257e4f772
   m_configObjects: {}
